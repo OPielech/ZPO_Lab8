@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZPO_Lab8</string>
+    <string name="action_settings">Settings</string>
+    <string name="exchange">Exchange</string>
+    <string name="result">Result</string>
+    <string name="please_enter_the_value">Please enter the value</string>
+
+    <string-array name="currencies">
+        <item> USD </item>
+        <item> EUR </item>
+        <item> CHF </item>
+        <item> GBP </item>
+        <item> PLN </item>
+    </string-array>
+
+</resources>
